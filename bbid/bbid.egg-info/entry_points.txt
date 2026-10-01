@@ -1,0 +1,2 @@
+[console_scripts]
+bbid = bbid.bbid:main

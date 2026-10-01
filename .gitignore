@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+# Node
+node_modules/
+.next/
+.nuxt/
+.output/
+dist/
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.toml
+# Data / databases / runtime
+*.db
+*.sqlite*
+*.sql
+*.dump
+data/
+*.log
+*.parquet
+# OS
+.DS_Store

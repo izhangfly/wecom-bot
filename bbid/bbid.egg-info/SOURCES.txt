@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+bbid/__init__.py
+bbid/bbid.py
+bbid.egg-info/PKG-INFO
+bbid.egg-info/SOURCES.txt
+bbid.egg-info/dependency_links.txt
+bbid.egg-info/entry_points.txt
+bbid.egg-info/top_level.txt
